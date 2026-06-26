@@ -1,24 +1,28 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Biologia',
+    'O que é biologia?',
+    'Biologia é a ciência que estuda os seres vivos e a vida.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Biologia',
+    'Qual é a menor unidade da vida?',
+    'A célula.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Matematica Logica',
+    'Se todos os gatos são animais e Tom é um gato, o que Tom é??',
+    'Um animal.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'quimica',
+    'O que é um átomo?',
+    'A menor unidade de um elemento químico.'
 )
-
+criaCartao(
+    'geografia',
+    'Em qual continente fica o Brasil?',
+    'América do Sul.'
+)
